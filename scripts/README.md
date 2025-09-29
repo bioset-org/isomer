@@ -69,4 +69,4 @@ python pipeline.py
 
 ## Citation
 
-If this pipeline contributes to your research, please cite this repository (GitHub URL / DOI if available).
+If this pipeline contributes to your research, please cite this repository (https://github.com/bioset-org/isomer).
